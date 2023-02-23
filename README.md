@@ -24,3 +24,6 @@ feeding the database - Python - Data analysis,
 exploratory analysis - Python - Data analysis, and Introduction to data analysis
 Creation of an operational report - Data visualization.
 
+
+The project is carried out as part of the specialized Data Lab course from CodersLab
+
